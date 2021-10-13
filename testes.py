@@ -1,1 +1,5 @@
-pontos_perdidos = 11 / 3
+arquivo = open('palavras.txt','r')
+conteudo = arquivo.read()
+print(conteudo)
+conteudo = arquivo.read()
+print(conteudo)

@@ -19,7 +19,7 @@ def jogar():
             marcar_chute_correto(chute, letras_acertadas, palavra_secreta)
         else:
             erros += 1
-            print('\nTente outra letra...')
+            print(f'\nTente outra letra... Você já errou {erros} vezes.')
             desenha_forca(erros)
 
         enforcou = erros == 7
