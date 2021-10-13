@@ -1,2 +1,3 @@
-# Formacao_Python
-Atividades dos cursos de formação em Python da Alura.
+# Jogos
+
+Jogos desenvolvidos durante atividades do curso da Alura.
