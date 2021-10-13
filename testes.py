@@ -1,5 +1,0 @@
-arquivo = open('palavras.txt','r')
-conteudo = arquivo.read()
-print(conteudo)
-conteudo = arquivo.read()
-print(conteudo)
